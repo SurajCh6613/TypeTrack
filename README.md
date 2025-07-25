@@ -12,7 +12,8 @@ TypeTrack is a lightweight, responsive typing speed test application that helps 
 
 ## 📸 Screenshots
 
-(Add a screenshot of the app UI here)
+<img width="688" height="311" alt="TypeTrack" src="https://github.com/user-attachments/assets/6e210809-2937-4c55-9fee-5f03d858264c" />
+
 
 ## 🛠️ Tech Stack
 
