@@ -37,11 +37,12 @@ TypeTrack/
 ```
 
 📬 Contact
-GitHub: @SurajCh6613
+GitHub: https://github.com/SurajCh6613
+
 LinkedIn: https://www.linkedin.com/in/surajch6613/
 
 
 ### 🔗 Live Demo
 
-👉 [View TypeTrack Live](https://SurajCh6613.github.io/TypeTrack/)
+👉 View TypeTrack Live- https://SurajCh6613.github.io/TypeTrack/
 
