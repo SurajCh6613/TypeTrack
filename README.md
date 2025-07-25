@@ -46,5 +46,5 @@ LinkedIn: [SurajCh6613](https://www.linkedin.com/in/surajch6613/)
 
 ### 🔗 Live Demo
 
-👉 View TypeTrack Live- https://SurajCh6613.github.io/TypeTrack/
+👉 [View TypeTrack Live](https://SurajCh6613.github.io/TypeTrack/)
 
