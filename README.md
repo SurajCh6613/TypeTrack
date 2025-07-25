@@ -37,9 +37,10 @@ TypeTrack/
 ```
 
 📬 Contact
-GitHub: https://github.com/SurajCh6613
 
-LinkedIn: https://www.linkedin.com/in/surajch6613/
+GitHub: [SurajCh6613](https://github.com/SurajCh6613)
+
+LinkedIn: [SurajCh6613](https://www.linkedin.com/in/surajch6613/)
 
 
 ### 🔗 Live Demo
